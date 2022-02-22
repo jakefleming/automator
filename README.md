@@ -1,5 +1,5 @@
 # automator
-A place to put automations worth sharing
+A place to put [Automator automations](https://automator.design) worth sharing
 
 ## [redlines_instancePadding.json](https://raw.githubusercontent.com/jakefleming/automator/main/redlines_instancePadding.json)
 - Draws rectangles in a random color for your auto layout padding and item spacing in the instance you have selected
